@@ -79,9 +79,9 @@ Working from the analytical views and dashboard:
 - **Weekly demand:** Store 5 spikes **Friday–Saturday** (weekend-driven traffic); Store 8 is flat across the week (steady everyday shoppers). Different demand shapes → different staffing and promotion calendars.
 - **Store density:** States with **multiple stores generated $40M+ more in annual sales** than single-store states, suggesting clustering amplifies rather than dilutes reach in strong markets.
 
-![Dashboard](dashboards/dashboard_full.png)
+![Dashboard](dashboard/dashboard_full.png)
 
-Full breakdown with screenshots in [`dashboards/`](dashboards/README.md).
+Full breakdown with screenshots in [`dashboard/`](dashboard/README.md).
 
 ---
 
