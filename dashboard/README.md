@@ -1,4 +1,4 @@
-# Dashboards
+# Dashboard
 
 Interactive Tableau dashboard built on the warehouse's analytical views. It
 answers the four business questions with a global year filter and click-to-filter
