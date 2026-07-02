@@ -98,7 +98,7 @@ retail-data-warehouse/
 ├── docs/
 │   ├── dimensional_model.png
 │   └── data_dictionary.md
-└── dashboards/
+└── dashboard/
     ├── README.md            # Tableau Public link + screenshots
     └── *.png
 ```
